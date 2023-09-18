@@ -13,5 +13,5 @@ list_length = 0
 for _ in my_list:
     list_length += 1
 
-print("Updated List:", my_list)
+print( my_list)
 print("Length of List:", list_length)
